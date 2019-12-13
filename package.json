@@ -1,0 +1,15 @@
+{
+  "name": "doubly-linked-list",
+  "version": "1.0.0",
+  "description": "Javascript implementation of Doubly Linked List",
+  "main": "doublyLinkedList.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Syed Muhammad Rizwan",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
