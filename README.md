@@ -29,6 +29,7 @@ const first = list.removeFirst();
 // Remove the first occurrence the given value from the list.
 // Returns true if an element was removed, false otherwise.
 const wasRemoved = list.remove(1);
+```
 
 ## Running the Tests
 
